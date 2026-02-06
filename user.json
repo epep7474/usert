@@ -1,1 +1,16 @@
-{}
+{
+  "users": [
+    {
+      "id": "12345678",
+      "name": "ACEL_OWNER",
+      "vip": true,
+      "limit": 999999
+    },
+    {
+      "id": "87654321",
+      "name": "USER_BIASA",
+      "vip": false,
+      "limit": 10
+    }
+  ]
+}
