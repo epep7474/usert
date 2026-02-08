@@ -1,0 +1,3 @@
+acel|123|owner
+maman|999|50
+user_cupu|000|10
